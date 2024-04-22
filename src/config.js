@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('vsersion1');
+console.log('vsersion2 updated');
